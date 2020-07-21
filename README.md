@@ -1,4 +1,4 @@
-# Machinehack-Forest-Cover-Classification
+# Forest Cover Classification: Weekend Hackathon #12
 
 
 ![22 Forest Cover Classification](https://user-images.githubusercontent.com/56091634/88070452-53360600-cb90-11ea-8099-8c5cd00952f6.jpg)
@@ -14,11 +14,12 @@ sample_submission.csv - Accepted submission format
 
 ## Leaderboard rank: 22
 
-## Local cv: 0.3015
+![forestcv](https://user-images.githubusercontent.com/56091634/88075863-fdb12780-cb96-11ea-85d8-27596dd7d78f.png)
+
+## Best soln: final_solution.ipynb
+
+## Local cv: 0.29750
 
 ## Online cv: 0.30285
 
-## Final cv: 0.30314
-
-
-
+## Final cv on 100% test data: 0.30314
