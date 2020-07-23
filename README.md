@@ -18,7 +18,7 @@ sample_submission.csv - Accepted submission format
 
 ## Best soln: final_solution.ipynb
 
-## Local cv: 0.29750
+## Local cv: 0.29896
 
 ## Online cv: 0.30285
 
